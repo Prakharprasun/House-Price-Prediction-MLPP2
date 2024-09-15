@@ -142,25 +142,25 @@ Built-in regularization parameters to reduce overfitting.
 
 
 ## Results
-After training and evaluating all models, the performance metrics are as follows:
+After training and evaluating all models (at: https://colab.research.google.com/github/Prakharprasun/House-Price-Prediction-MLPP2/blob/main/Ames_Housing_Price_Prediction.ipynb ), the performance metrics are as follows:
 
 Neural Network:
 
-Train MSE: value
+Train MSE: 2279020212.3442407
 
-Test MSE: value
+Test MSE: 5543950419.412305
 
 Random Forest:
 
-Train MSE: value
+Train MSE: 63595827.75066701
 
-Test MSE: value
+Test MSE: 606379418.8568879
 
 Gradient Boosting (XGBoost):
 
-Train MSE: value
+Train MSE: 0.0016817547491114837
 
-Test MSE: value
+Test MSE: 575147870.4662652
 
 The Gradient Boosting model performed the best, achieving the lowest Test MSE.
 The RMSE as a percentage of the average house price is calculated to interpret the model's performance:

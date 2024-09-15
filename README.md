@@ -162,7 +162,7 @@ Train MSE: 0.0016817547491114837
 
 Test MSE: 575147870.4662652
 
-The Gradient Boosting model performed the best, achieving the lowest Test MSE.
+The Gradient Boosting model performed the best.
 The RMSE as a percentage of the average house price is calculated to interpret the model's performance:
 Based on the RMSE percentage, the model's performance is categorized as:
 
